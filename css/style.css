@@ -73,7 +73,7 @@ header .wavy {
 
 
 .dropdown {
-    border-radius: 16px;
+   
     display: inline-block;
     position: absolute;
     padding: 6em;
@@ -94,7 +94,7 @@ header .wavy {
 }
 
 .dropdown-content a {
-  border-radius: 16px;
+
     color: black;
     padding: 12px 16px;
     text-decoration: none;
